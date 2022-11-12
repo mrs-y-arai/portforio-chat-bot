@@ -213,7 +213,7 @@ a {
   font-weight: 700;
 }
 a:hover {
-  opacity: 0.8;
+  opacity: 0.85;
 }
 button {
   border: none;

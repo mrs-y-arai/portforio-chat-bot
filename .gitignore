@@ -1,7 +1,7 @@
 .DS_Store
 node_modules
 /dist
-
+./publuc
 
 # local env files
 .env.local
@@ -21,3 +21,8 @@ pnpm-debug.log*
 *.njsproj
 *.sln
 *.sw?
+
+# Confidential information
+.firebase/
+.firebaserc
+src/firebase/

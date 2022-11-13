@@ -216,7 +216,7 @@ a:hover {
   opacity: 0.85;
 }
 button {
-  border: none;
+  /* border: none; */
   background: transparent;
 }
 #app {
